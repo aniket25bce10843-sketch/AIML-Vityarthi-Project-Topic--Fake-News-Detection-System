@@ -15,4 +15,4 @@
 # Setup Instructions
 ## Folow the given steps to run this project on your system
 ## 1- Clone the Repository
-## git clone
+## git clone https://github.com/aniket25bce10843-sketch/AIML-Vityarthi-Project-Topic--Fake-News-Detection-System/edit/main/README.md
